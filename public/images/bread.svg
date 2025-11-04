@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#fff7ed"/>
+  <rect x="30" y="80" rx="20" ry="20" width="140" height="70" fill="#f59e0b"/>
+  <circle cx="60" cy="95" r="6" fill="#fde68a"/>
+  <circle cx="90" cy="95" r="6" fill="#fde68a"/>
+  <circle cx="120" cy="95" r="6" fill="#fde68a"/>
+  <text x="100" y="185" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle" fill="#92400e">Bread</text>
+</svg>
