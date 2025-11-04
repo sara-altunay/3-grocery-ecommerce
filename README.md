@@ -114,3 +114,10 @@ stripe listen --forward-to localhost:3000/api/webhook
 
 MIT (or your preferred license)
 # 3-grocery-ecommerce
+Website With HTML CSS and Bootstrap 
+<h1>A modern grocery e-commerce app built with Next.js 15, React 19, and TypeScript. Browse products, search, manage a cart, and complete purchases with Stripe Checkout. Orders are persisted to MongoDB. The UI is responsive and includes a user switcher for demo/testing.
+</h1>
+
+<h2>SCREENSHOT:</h2>
+<img src="demo.gif" alt="Demo" width="600"/>
+
